@@ -1,5 +1,6 @@
 # Computer-Vision
 a two-layer nerual network for processing MNIST
+
 "parasearch.py", search the best parameter: learning rate, hidden size and regularization strength.
 
 "train.py" define simpleNetwork class including active function, bp gradient, loss, SGD, and save model. Train the model and visualize the loss can accuracy curves.
